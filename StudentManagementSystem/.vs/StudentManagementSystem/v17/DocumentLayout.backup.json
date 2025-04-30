@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\asp_net\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp_net\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp_net\\studentmanagementsystem\\studentmanagementsystem\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp_net\\studentmanagementsystem\\studentmanagementsystem\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp_net\\studentmanagementsystem\\studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4865FB-31CE-49A6-A082-DEFAA5C7F85F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\School.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\School.cs",
+              "ToolTip": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\School.cs",
+              "RelativeToolTip": "StudentManagementSystem\\School.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:03:28.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Course.cs",
+              "ToolTip": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Course.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:26:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Student.cs",
+              "ToolTip": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:25:15.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\asp_net\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:23:59.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

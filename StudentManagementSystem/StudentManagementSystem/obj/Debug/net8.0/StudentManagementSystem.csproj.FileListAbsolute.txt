@@ -1,0 +1,14 @@
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\asp_net\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
