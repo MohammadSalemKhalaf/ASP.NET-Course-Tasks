@@ -1,0 +1,15 @@
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+C:\asp_net\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json

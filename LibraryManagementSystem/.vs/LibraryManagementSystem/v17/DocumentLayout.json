@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\asp_net\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\asp_net\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\asp_net\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\asp_net\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\asp_net\\librarymanagementsystem\\librarymanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\asp_net\\librarymanagementsystem\\librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A5A686-FD85-4B2C-A551-9D5C7FE86DE9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:30:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Member.cs",
+              "ToolTip": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Member.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:52:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Person.cs",
+              "ToolTip": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Person.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Person.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:42:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:30:10.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\asp_net\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:44:19.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
